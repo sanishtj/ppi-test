@@ -15,10 +15,14 @@ For example, if the request is [https://example.com/api?query=Sean%20Carey](http
         “email”: “ [scarey@ppi.ca](mailto:scarey@ppi.ca) “
      }
 
-for an office query, [https://example.com/api?query=Vancouver](https://example.com/api?query=Vancouver) , return the entire json object for ‘Vancouver’
+For an office query, [https://example.com/api?query=Vancouver](https://example.com/api?query=Vancouver) , return the entire json object for ‘Vancouver’.
 
 Build the **simplest** possible solution or MVP (minimal viable product). It doesn't need any error handling or other clever features and can simply load the provided json file on startup and assume it will never change.
 
 Use any open source technology and libraries you deem appropriate e.g. Node/Express, .Net Core MVC, Python/Flask
 
-Clone the provided repo, and send a link to a publicly available version of it when you have completed the project.
+Do not spend more than a couple of hours on this task, it should be an MVP and nothing more.
+
+Clone the provided repo, and send a link to a publicly available version of it when you have completed the project. Provide basic instructions on how to run the completed project on a local
+development machine.
+
