@@ -1,3 +1,11 @@
+
+[co]:https://www.ppi.ca/en/contact
+
+The PPI public website [contacts page][co] contains a list of all our offices with addresses, key contacts and geo location.
+
+
+
+
 Create a REST API providing search results for the data in contacts.json.  
   
 The fields that should be searchable are "office" and "contacts".  
