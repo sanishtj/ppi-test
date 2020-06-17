@@ -1,17 +1,29 @@
+  [co]: [https://www.ppi.ca/en/contact](https://www.ppi.ca/en/contact) 
+ 
+#### The PPI public website [contacts page][co] contains a list of all our offices with addresses, key contacts and geo location info.
+#### It doesn’t yet have a much requested ‘search’ feature.
+ 
+#### The contact info is stored in an Azure table on the production web site, and is provided in the json file included in this project.
+ 
+For the purposes of this test please create a REST API that provides a simple search capability and returns either an office or a contact (person)
+ 
+For example, if the request is  [https://example.com/api?query=Sean%20Carey](https://example.com/api?query=Sean%20Carey) , the api should return the contact object for him:
+ 
+     {
+        “name”: “Sean Carey”,
+        “title”: “Vice-President, Sales - British Columbia”,
+        “phone”: “778-374-3501”,
+        “email”: “ [scarey@ppi.ca](mailto:scarey@ppi.ca) “
+     }
+ 
+ 
+for an office query,  [https://example.com/api?query=Vancouver](https://example.com/api?query=Vancouver) , return the entire json object for ‘Vancouver’
+ 
+Build the **simplest** possible solution or MVP (minimal viable product). It doesn't need any error handling or other clever features and can simply load the provided json file on startup and assume it will never change.
 
-[co]:https://www.ppi.ca/en/contact
+Use any open source technology and libraries you deem appropriate e.g. Node/Express, .Net Core MVC, Python/Flask 
 
-The PPI public website [contacts page][co] contains a list of all our offices with addresses, key contacts and geo location.
-
-
+Clone the provided repo, and send a link to a publicly available version of it when you have completed the project.
 
 
-Create a REST API providing search results for the data in contacts.json.  
-  
-The fields that should be searchable are "office" and "contacts".  
-  
-Here are examples of queries that clients of the API can submit:  
-https://example.com/api?query=Sean%20Carey  
-https://example.com/api?query=Vancouver  
-  
-Use any technology you deem appropriate and write a short reason why you chose it.
+ 
