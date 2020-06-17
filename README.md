@@ -1,8 +1,8 @@
-#### The PPI public website [contacts page]([https://www.ppi.ca/en/contact](https://www.ppi.ca/en/contact)) contains a list of all our offices with addresses, key contacts and geo location info.
+The PPI public website [contacts page]([https://www.ppi.ca/en/contact](https://www.ppi.ca/en/contact)) contains a list of all our offices with addresses, key contacts and geo location info.
 
-#### It doesn’t yet have a much requested ‘search’ feature.
+It doesn’t yet have a much requested ‘search’ feature.
 
-#### The contact info is stored in an Azure table on the production web site, and is provided in the json file included in this project.
+The contact info is stored in an Azure table on the production web site, and is provided in the json file included in this project.
 
 For the purposes of this test please create a REST API that provides a simple search capability and returns either an office or a contact (person)
 
