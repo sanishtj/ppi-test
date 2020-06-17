@@ -1,0 +1,1040 @@
+[
+  {
+    "id": 17,
+    "office": "Vancouver (Downtown)",
+    "city": "Vancouver",
+    "address": "2050-1050 West Pender Street",
+    "province": "BC",
+    "postal": "V6E 3S7",
+    "phone": {
+      "direct": "778-374-3500",
+      "fax": "604-605-1674",
+      "tollfree": "800-605-1644"
+    },
+    "coordinates": {
+      "latitude": 49.287219,
+      "longitude": -123.11959
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Sean Carey",
+            "title": "Vice-President, Sales - British Columbia",
+            "phone": "778-374-3501",
+            "email": "scarey@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "John Pavlakis",
+            "title": "Director, Business Development, Wealth - BC",
+            "phone": "604-657-7447",
+            "email": "jpavlakis@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "office": "Vancouver (Burnaby)",
+    "city": "Burnaby",
+    "address": "4370 Still Creek Drive, Suite 210",
+    "province": "BC",
+    "postal": "V5C 0G5",
+    "phone": {
+      "direct": "604-688-8909",
+      "fax": "604-688-8924",
+      "tollfree": "800-661-7712"
+    },
+    "coordinates": {
+      "latitude": 49.259201,
+      "longitude": -123.007432
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Sean Carey",
+            "title": "Vice-President, Sales - British Columbia",
+            "phone": "778-374-3501",
+            "email": "scarey@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Neeraj Pardeshi",
+            "title": "Vice-President, Advanced Sales - Southern Alberta and BC",
+            "phone": "403-451-4272",
+            "email": "npardeshi@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "office": "Vancouver (Surrey)",
+    "city": "Surrey",
+    "address": "15117 – 101 Avenue Suite 320",
+    "province": "BC",
+    "postal": "V3R 8P7",
+    "phone": {
+      "direct": "778-374-3500",
+      "fax": "604-605-1674",
+      "tollfree": "800-605-1644"
+    },
+    "coordinates": {
+      "latitude": 49.186076,
+      "longitude": -122.839818
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Sean Carey",
+            "title": "Vice-President, Sales - British Columbia",
+            "phone": "778-374-3501",
+            "email": "scarey@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "office": "Calgary (Downtown)",
+    "city": "Calgary",
+    "address": "1122 - 4th Street SW, Suite 500",
+    "province": "AB",
+    "postal": "T2R 1M1",
+    "phone": {
+      "direct": "403-262-8868",
+      "fax": "403-237-8169",
+      "tollfree": "800-667-9306"
+    },
+    "coordinates": {
+      "latitude": 51.041997,
+      "longitude": -114.071155
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Bruce Tetz",
+            "title": "Senior Vice President, Sales",
+            "phone": "403-910-3335",
+            "email": "btetz@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "office": "Calgary (South)",
+    "city": "Calgary",
+    "address": "3600 - 4th Street SE",
+    "province": "AB",
+    "postal": "T2G 2W3",
+    "phone": {
+      "direct": "403-910-3333",
+      "fax": "403-287-3412",
+      "tollfree": "800-661-1497"
+    },
+    "coordinates": {
+      "latitude": 51.02189,
+      "longitude": -114.048793
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Jeff Borden",
+            "title": "Vice-President, Sales - Southern Alberta",
+            "phone": "403-910-3331",
+            "email": "jborden@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Neeraj Pardeshi",
+            "title": "Vice-President, Advanced Sales - Southern Alberta and BC",
+            "phone": "403-451-4272",
+            "email": "npardeshi@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Asad Zaidi",
+            "title": "Director, Business Development, Wealth - Prairies",
+            "phone": "403-803-5987",
+            "email": "azaidi@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "office": "Edmonton (South)",
+    "city": "Edmonton",
+    "address": "6325 Gateway Blvd. NW, Suite 126",
+    "province": "AB",
+    "postal": "T6H 5H6",
+    "phone": {
+      "direct": "780-809-2800",
+      "fax": "780-433-7717",
+      "tollfree": "888-766-5433"
+    },
+    "coordinates": {
+      "latitude": 53.501033,
+      "longitude": -113.492558
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Shane Corcoran",
+            "title": "Vice-President, Sales - Northern Alberta",
+            "phone": "780-809-2802",
+            "email": "scorcoran@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Asad Zaidi",
+            "title": "Director, Business Development, Wealth - Prairies",
+            "phone": "403-803-5987",
+            "email": "azaidi@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "office": "Edmonton (Downtown)",
+    "city": "Edmonton",
+    "address": "10235 - 101 Street NW, Suite 2504",
+    "province": "AB",
+    "postal": "T5J 3G1",
+    "phone": {
+      "direct": "780-423-6801",
+      "fax": "780-421-0889",
+      "tollfree": "800-668-1348 "
+    },
+    "coordinates": {
+      "latitude": 53.544756,
+      "longitude": -113.49323
+    },
+    "tags": [
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Brad Hyde",
+            "title": "Vice-President, Advanced Sales - Northern Alberta and Prairies",
+            "phone": "780-665-5006",
+            "email": "bhyde@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "office": "Winnipeg",
+    "city": "Winnipeg",
+    "address": "295 Broadway",
+    "province": "MB",
+    "postal": "R3C 0R9",
+    "phone": {
+      "direct": "204-515-0900",
+      "fax": "204-987-2594",
+      "tollfree": "877-987-2477"
+    },
+    "coordinates": {
+      "latitude": 49.888283,
+      "longitude": -97.139808
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Rob Burns",
+            "title": "Vice-President, Sales - Manitoba",
+            "phone": "204-515-0902",
+            "email": "rburns@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Marke Dally",
+            "title": "Vice-President, Advanced Sales - Manitoba",
+            "phone": "204-515-0908",
+            "email": "mdally@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Asad Zaidi",
+            "title": "Director, Business Development, Wealth - Prairies",
+            "phone": "403-803-5987",
+            "email": "azaidi@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "office": "Kitchener",
+    "city": "Kitchener",
+    "address": "235 Ardelt Avenue, Suite 1A",
+    "province": "ON",
+    "postal": "N2C 2M3",
+    "phone": {
+      "direct": "519-888-0322",
+      "fax": "519-653-7114",
+      "tollfree": "800-463-4161"
+    },
+    "coordinates": {
+      "latitude": 43.423125,
+      "longitude": -80.473183
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Robert Aggio",
+            "title": "Vice-President, Sales - Ontario",
+            "phone": "647-497-9029",
+            "email": "raggio@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Benefits",
+        "contacts": [
+          {
+            "name": "Ed Hofstede",
+            "title": "President, Benefits",
+            "phone": "519-514-0121",
+            "email": "ehofstede@ppi.ca"
+          },
+          {
+            "name": "Ryan Warner",
+            "title": "Director, Group Retirement and Benefits Solutions",
+            "phone": "519-514-0136",
+            "email": "rwarner@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Mark Pahwa",
+            "title": "Director, Business Development, Wealth - Ontario",
+            "phone": "647-824-5465",
+            "email": "mpahwa@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "office": "Toronto (Mississauga)",
+    "city": "Mississauga",
+    "address": "30 Eglinton Avenue West, Suite 720",
+    "province": "ON",
+    "postal": "L5R 3E7",
+    "phone": {
+      "direct": "647-497-5522",
+      "fax": "905-501-7489",
+      "tollfree": "855-828-5066"
+    },
+    "coordinates": {
+      "latitude": 43.605567,
+      "longitude": -79.653001
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Robert Aggio",
+            "title": "Vice-President, Sales - Ontario",
+            "phone": "647-497-9029",
+            "email": "raggio@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Mark Pahwa",
+            "title": "Director, Business Development, Wealth - Ontario",
+            "phone": "647-824-5465",
+            "email": "mpahwa@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "office": "Toronto (Downtown)",
+    "city": "Toronto",
+    "address": "26 Wellington Street East, 6th Floor",
+    "province": "ON",
+    "postal": "M5E 1S2",
+    "phone": {
+      "direct": "647-497-9000",
+      "fax": "",
+      "tollfree": "855-828-5066"
+    },
+    "coordinates": {
+      "latitude": 43.648555,
+      "longitude": -79.375882
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Robert Aggio",
+            "title": "Vice-President, Sales - Ontario",
+            "phone": "647-497-9029",
+            "email": "raggio@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Mark Pahwa",
+            "title": "Director, Business Development, Wealth - Ontario",
+            "phone": "647-824-5465",
+            "email": "mpahwa@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "office": "Toronto (Sheppard)",
+    "city": "Toronto",
+    "address": "2235 Sheppard Ave East, Suite 1200",
+    "province": "ON",
+    "postal": "M2J 5B5",
+    "phone": {
+      "direct": "416-494-7707",
+      "fax": "416-494-0067",
+      "tollfree": "888-887-3892"
+    },
+    "coordinates": {
+      "latitude": 43.772757,
+      "longitude": -79.328034
+    },
+    "tags": [
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Daniel Dessureault",
+            "title": "Vice-President, Advanced Sales - Ontario",
+            "phone": "416-915-2938",
+            "email": "ddessureault@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Benefits",
+        "contacts": [
+          {
+            "name": "Keith Malkin",
+            "title": "Vice-President, Western Canada - Benefits",
+            "phone": "416-915-2976",
+            "email": "kmalkin@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "office": "Toronto (Yorkland)",
+    "city": "Toronto",
+    "address": "235 Yorkland Blvd., Suite 1200",
+    "province": "ON",
+    "postal": "M2J 4Y8",
+    "phone": {
+      "direct": "647-497-9000",
+      "fax": "416-495-7611",
+      "tollfree": "855-828-5066"
+    },
+    "coordinates": {
+      "latitude": 43.772219,
+      "longitude": -79.337501
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Robert Aggio",
+            "title": "Vice-President, Sales - Ontario",
+            "phone": "647-497-9029",
+            "email": "raggio@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Mark Pahwa",
+            "title": "Director, Business Development, Wealth - Ontario",
+            "phone": "647-824-5465",
+            "email": "mpahwa@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "office": "Ottawa",
+    "city": "Ottawa",
+    "address": "35 Antares Drive, Suite 200",
+    "province": "ON",
+    "postal": "K2E 8B1",
+    "phone": {
+      "direct": "613-916-6322",
+      "fax": "613-738-2904",
+      "tollfree": "855-828-5066"
+    },
+    "coordinates": {
+      "latitude": 45.332066,
+      "longitude": -75.709369
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Robert Aggio",
+            "title": "Vice-President, Sales - Ontario",
+            "phone": "647-497-9029",
+            "email": "raggio@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Mark Pahwa",
+            "title": "Director, Business Development, Wealth - Ontario",
+            "phone": "647-824-5465",
+            "email": "mpahwa@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "office": "Montreal (Île-des-Soeurs)",
+    "city": "Île des Sœurs",
+    "address": "3000, boul. René-Lévesque, Bureau 340",
+    "province": "QC",
+    "postal": "H3E 1T9",
+    "phone": {
+      "direct": "514-765-7400",
+      "fax": "514-765-0887",
+      "tollfree": "855-275-2695"
+    },
+    "coordinates": {
+      "latitude": 45.467312,
+      "longitude": -73.541322
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Andrée Couture",
+            "title": "Vice-President, Advanced Sales - Québec",
+            "phone": "514-807-8216",
+            "email": "acouture@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Andrée Couture",
+            "title": "Vice-President, Advanced Sales - Québec",
+            "phone": "514-227-8686",
+            "email": "acouture@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Benefits",
+        "contacts": [
+          {
+            "name": "Eric David",
+            "title": "Vice-President, Eastern Canada - Benefits",
+            "phone": "514-227-8672",
+            "email": "edavid@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "office": "Laval",
+    "city": "Laval",
+    "address": "1200, boul. Chomedey, Bureau 200",
+    "province": "QC",
+    "postal": "H7V 3Z3",
+    "phone": {
+      "direct": "450-367-5115",
+      "fax": "855-764-3552",
+      "tollfree": "833-717-3496"
+    },
+    "coordinates": {
+      "latitude": 45.549166,
+      "longitude": -73.744478
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Martin Vézina",
+            "title": "Vice-President of Development and Sales",
+            "phone": "581-706-5204",
+            "email": "mvezina@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "office": "Brossard",
+    "city": "Brossard",
+    "address": "7005, boul. Taschereau, Bureau 180",
+    "province": "QC",
+    "postal": "J4Z 1A7",
+    "phone": {
+      "direct": "438-858-2160",
+      "fax": "450-766-0475",
+      "tollfree": "866-998-5001"
+    },
+    "coordinates": {
+      "latitude": 45.466804,
+      "longitude": -73.465414
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Martin Vézina",
+            "title": "Vice-President of Development and Sales",
+            "phone": "581-706-5204",
+            "email": "mvezina@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "office": "Québec City",
+    "city": "Québec City",
+    "address": "6700, boul. Pierre-Bertrand, Bureau 300",
+    "province": "QC",
+    "postal": "G2J 0B4",
+    "phone": {
+      "direct": "581-706-5200",
+      "fax": "",
+      "tollfree": "866-999-5568"
+    },
+    "coordinates": {
+      "latitude": 46.841977,
+      "longitude": -71.287538
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-benefits",
+        "company": "PPI Benefits"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Martin Vézina",
+            "title": "Vice-President of Development and Sales",
+            "phone": "581-706-5204",
+            "email": "mvezina@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Benefits",
+        "contacts": [
+          {
+            "name": "Pierre Bédard",
+            "title": "Regional Sales Director - Benefits",
+            "phone": "581-706-5213",
+            "email": "pbedard@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "office": "Halifax",
+    "city": "Halifax",
+    "address": "200 Waterfront Drive, Suite 160",
+    "province": "NS",
+    "postal": "B4A 4J4",
+    "phone": {
+      "direct": "902-442-9955",
+      "fax": "902-468-9470",
+      "tollfree": "888-799-6396"
+    },
+    "coordinates": {
+      "latitude": 44.715113,
+      "longitude": -63.671719
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-advisory",
+        "company": "PPI Advisory"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Peter Morrison",
+            "title": "Vice-President, Sales - Maritimes",
+            "phone": "902-442-9950",
+            "email": "pmorrison@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Advisory",
+        "contacts": [
+          {
+            "name": "Dave Foley",
+            "title": "Vice-President, Advanced Sales - Atlantic",
+            "phone": "902-442-9952",
+            "email": "dfoley@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Ryan Stewart",
+            "title": "Director, Business Development, Wealth - Atlantic",
+            "phone": "902-233-1923",
+            "email": "rstewart@ppi.ca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "office": "St. John's",
+    "city": "St. John's",
+    "address": "100 Elizabeth Avenue, Suite 110",
+    "province": "NL",
+    "postal": "A1B 1S1",
+    "phone": {
+      "direct": "709-782-5500",
+      "fax": "709-782-4500",
+      "tollfree": "888-579-1631"
+    },
+    "coordinates": {
+      "latitude": 47.581209,
+      "longitude": -52.715621
+    },
+    "tags": [
+      {
+        "slug": "ppi",
+        "company": "PPI"
+      },
+      {
+        "slug": "ppi-valet",
+        "company": "PPI Valet"
+      }
+    ],
+    "contacts_by_category": [
+      {
+        "category": "PPI",
+        "contacts": [
+          {
+            "name": "Curtis Dunn",
+            "title": "Vice-President, Sales - Atlantic",
+            "phone": "709-781-0561",
+            "email": "cdunn@ppi.ca"
+          }
+        ]
+      },
+      {
+        "category": "PPI Valet",
+        "contacts": [
+          {
+            "name": "Ryan Stewart",
+            "title": "Director, Business Development, Wealth - Atlantic",
+            "phone": "902-233-1923",
+            "email": "rstewart@ppi.ca"
+          }
+        ]
+      }
+    ]
+  }
+]

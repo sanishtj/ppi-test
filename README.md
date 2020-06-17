@@ -1,29 +1,9 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Create a REST API providing search results for the data in contacts.json.  
+  
+The fields that should be searchable are "office" and "contacts".  
+  
+Here are examples of queries that clients of the API can submit:  
+https://example.com/api?query=Sean%20Carey  
+https://example.com/api?query=Vancouver  
+  
+Use any technology you deem appropriate and write a short reason why you chose it.
