@@ -1,4 +1,4 @@
-The PPI public website [contacts page]([https://www.ppi.ca/en/contact](https://www.ppi.ca/en/contact)) contains a list of all our offices with addresses, key contacts and geo location info.
+The PPI public website [contacts page](https://www.ppi.ca/en/contact) contains a list of all our offices with addresses, key contacts and geo location info.
 
 It doesn’t yet have a much requested ‘search’ feature.
 
