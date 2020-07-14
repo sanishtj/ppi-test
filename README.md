@@ -19,7 +19,7 @@ For example, if the request is [https://example.com/api?query=Sean%20Carey](http
 
 For an office query, [https://example.com/api?query=Vancouver](https://example.com/api?query=Vancouver), return the entire json object for ‘Vancouver’.
 
-Build the **simplest** possible solution or MVP (minimal viable product). It doesn't need any error handling or other clever features and can simply load the provided json file on startup and assume it will never change.
+Build the **simplest** possible solution or MVP (minimal viable product). It doesn't need any error handling, caching or other clever features. Retrieve the latest contacts data from the contacts API before performing each search.
 
 Use any open source technology and libraries you deem appropriate e.g. Node/Express, .Net Core MVC, Python/Flask, etc
 
