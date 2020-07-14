@@ -4,7 +4,7 @@ It doesn’t yet have a much requested ‘search’ feature.
 
 The contact info is stored in an Azure table on the production web site, delivered by the contacts [rest api](https://ppipubsiteservices.azurewebsites.net/api/contacts/en). 
 
-A sample of the English contacts data is provided in the json file included in this project. Use the API, however, and not this smampla data when building your solution.
+A sample of the English contacts data is provided in the json file included in this project. Use the API, however, and not this sample data when building your solution.
 
 For the purposes of this test please create a REST API that provides a simple search capability and returns either an office or a contact (person)
 
