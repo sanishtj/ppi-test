@@ -1,5 +1,7 @@
 var express = require("express");
 const https = require("https");
+var Promise = require("bluebird");
+var join = Promise.join;
 var app = express();
 const searchByOffice = require("./searchbyoffice");
 const searchByPerson = require("./searchbycontactperson");
@@ -16,8 +18,10 @@ app.all("/*", function (req, res, next) {
 });
 
 app.get("/api/contactsearch", function (req, resp) {
+  // To-Do: Move to ENV file
   let url = "https://ppipubsiteservices.azurewebsites.net/api/contacts/en";
 
+  // Get current contacts data
   https
     .get(url, (res) => {
       let body = "";
@@ -30,24 +34,35 @@ app.get("/api/contactsearch", function (req, resp) {
         try {
           let json = JSON.parse(body);
 
-          let officeSearchResult = searchByOffice(json, req.query.query);
+          // Calling both search in parallel
 
-          let personSearchReult = searchByPerson(json, req.query.query);
-
-          let response = {offices:officeSearchResult,contacts: personSearchReult  };
-          resp.send(response);
+          join(
+            searchByOffice(json, req.query.query),
+            searchByPerson(json, req.query.query),
+            function (officeSearchResult, personSearchReult) {
+              let response = {
+                offices: officeSearchResult,
+                contacts: personSearchReult,
+              };
+              resp.send(response);
+            }
+          );
         } catch (error) {
           console.error(error.message);
+          resp.send(error);
         }
       });
     })
     .on("error", (error) => {
       console.error(error.message);
+      resp.send(error);
     });
 });
 
 app.get("/", (req, res) => {
-  res.send("Welcome to contactsearch API. Please use proper url for results");
+  res.send(
+    "Welcome to contactsearch API. Please use proper url for results; eg: /api/contactsearch?query=ca or /api/contactsearch?query=sean"
+  );
 });
 
 app.get("/api", (req, res) => {

@@ -15,6 +15,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/matthewca/ppi-developer-test-a#readme",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
   }
