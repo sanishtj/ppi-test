@@ -1,0 +1,21 @@
+{
+  "name": "ppi-developer-test-a",
+  "version": "1.0.0",
+  "description": "The PPI public website [contacts page](https://www.ppi.ca/en/contact) contains a list of all our offices with addresses, key contacts and geo location info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/matthewca/ppi-developer-test-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/matthewca/ppi-developer-test-a#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
